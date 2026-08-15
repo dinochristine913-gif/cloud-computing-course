@@ -4,7 +4,7 @@
 Amazon Web Services (AWS) is a cloud platform that provides different services that organizations can use over the internet. 
 It can be used for running applications, storing files and data, managing databases, and many other cloud computing needs.
 
-## ## Global Infrastructure
+## Global Infrastructure
 AWS has data centers located in different parts of the world. These are organized into Regions and Availability Zones. 
 This setup helps businesses run their applications in different locations and keep their services available even when
 problems occur in one location.
